@@ -57,4 +57,4 @@ Se evalúan métricas de desempeño tales como:
 
 - F1-score
 
-Además, se determina el umbral óptimo de clasificación a partir del trade-off entre sensibilidad y especificidad.
+Además, se determina el umbral óptimo de clasificación a partir de la maximización de la ganancia obteniendo un valor de 0,36.
